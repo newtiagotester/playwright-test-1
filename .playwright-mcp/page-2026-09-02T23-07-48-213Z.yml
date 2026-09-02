@@ -1,0 +1,17 @@
+- generic [ref=f5e3]:
+  - generic [ref=f5e4]: Swag Labs
+  - generic [ref=f5e5]:
+    - generic [ref=f5e9]:
+      - textbox "Username" [ref=f5e11]
+      - textbox "Password" [ref=f5e15]
+      - heading [level=3] [ref=f5e19]:
+        - button [ref=f5e20] [cursor=pointer]
+        - text: "Epic sadface: You can only access '/cart.html' when you are logged in."
+      - button "Login" [ref=f5e23] [cursor=pointer]
+    - generic [ref=f5e25]:
+      - generic [ref=f5e26]:
+        - heading "Accepted usernames are:" [level=4] [ref=f5e27]
+        - text: standard_userlocked_out_userproblem_userperformance_glitch_usererror_uservisual_user
+      - generic [ref=f5e28]:
+        - heading "Password for all users:" [level=4] [ref=f5e29]
+        - text: secret_sauce
